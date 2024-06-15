@@ -12,6 +12,5 @@ main.fortamo()
 main.descartar()
 if ((len(main.col)+len(main.fil))!=len(main.mat)):
     main.sol()
-
 main.fortamo()
 main.resul()
